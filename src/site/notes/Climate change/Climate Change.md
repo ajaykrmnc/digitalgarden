@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/climate-change/climate-change/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/climate-change/climate-change/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
+ [[Climate change/Monetary Policy\|Monetary Policy]]
  
+
 | **Dimension**                                        | **Domestic Dimension**                                                                                                      | **International Dimension**                                                                                              |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Economic Growth vs. Environmental Sustainability** | Focus on balancing growth with environmental sustainability, emphasizing clean tech adoption for economic growth.           | Emphasizes India's role in sustainable growth while pursuing development.                                                |
