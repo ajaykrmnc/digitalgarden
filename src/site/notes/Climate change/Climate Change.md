@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-home":true,"permalink":"/climate-change/climate-change/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+## Climate Change
 
  [[Climate change/Monetary Policy\|Monetary Policy]]
  
