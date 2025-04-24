@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/climate-change/climate-change/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":false,"permalink":"/climate-change/climate-change/","dgPassFrontmatter":true,"created":"2025-04-08T16:16:24.668+05:30","updated":"2025-04-24T11:43:13.644+05:30"}
 ---
 
-## Climate Change
-
- [[Climate change/Monetary Policy\|Monetary Policy]]
- 
+[[Climate change/Monetary Policy\|Monetary Policy]]
 
 | **Dimension**                                        | **Domestic Dimension**                                                                                                      | **International Dimension**                                                                                              |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -188,3 +185,4 @@ This is a simplified overview, but it covers the main bodies and their functions
 {"name":"Default","mapZoom":8,"centerLat":37.1734995,"centerLng":-3.5995337,"query":"","chosenMapSource":0,"autoFit":false,"lock":false,"showLinks":false,"linkColor":"red","markerLabels":"off","embeddedHeight":300}
 ```
 
+![hello]()
