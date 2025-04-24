@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/climate-change/climate-change/","dgPassFrontmatter":true,"created":"2025-04-08T16:16:24.668+05:30","updated":"2025-04-24T11:43:13.644+05:30"}
+{"dg-publish":true,"permalink":"/climate-change/climate-change/","dgPassFrontmatter":true,"created":"2025-04-08T16:16:24.668+05:30","updated":"2025-04-24T13:02:23.083+05:30"}
 ---
 
 [[Climate change/Monetary Policy\|Monetary Policy]]
@@ -49,9 +49,7 @@ Gibraltar, a British Overseas Territory located on the southern tip of the Iberi
 
 > [!note]
 > Date : 23 April 2025 
-> No message from Apurva Srivastava 
-> Banke malke mala prem ke sansar se tar jau pyar se 
-> saiyan aa aa....
+
 
 
 Its strategic location at the entrance to the Mediterranean Sea has made Gibraltar a coveted prize throughout history. Control of the Strait of Gibraltar allows for significant influence over maritime traffic, a fact not lost on various empires and nations. For centuries, it has been a key naval base, first for the Spanish and then, since 1704, for the British. The capture of Gibraltar by British and Dutch forces during the War of the Spanish Succession marked a turning point, and its subsequent cession to Britain under the Treaty of Utrecht in 1713 solidified its status as a British territory. This treaty, however, remains a point of contention for Spain, which continues to claim sovereignty over the Rock.
