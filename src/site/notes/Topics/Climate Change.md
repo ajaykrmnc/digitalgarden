@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topics/climate-change/","dgPassFrontmatter":true,"created":"2025-04-08T16:16:24.668+05:30","updated":"2025-04-24T13:02:23.083+05:30"}
+{"dg-publish":true,"permalink":"/topics/climate-change/","dgPassFrontmatter":true,"created":"2025-04-08T16:16:24.668+05:30","updated":"2025-04-24T21:33:45.230+05:30"}
 ---
 
 [[Topics/Monetary Policy\|Monetary Policy]]
@@ -183,4 +183,3 @@ This is a simplified overview, but it covers the main bodies and their functions
 {"name":"Default","mapZoom":8,"centerLat":37.1734995,"centerLng":-3.5995337,"query":"","chosenMapSource":0,"autoFit":false,"lock":false,"showLinks":false,"linkColor":"red","markerLabels":"off","embeddedHeight":300}
 ```
 
-![hello]()
