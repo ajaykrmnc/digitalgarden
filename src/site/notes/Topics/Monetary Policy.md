@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/topics/monetary-policy/","dgPassFrontmatter":true,"created":"2025-04-24T09:42:25.434+05:30","updated":"2025-04-25T20:33:54.031+05:30"}
+{"dg-publish":true,"permalink":"/topics/monetary-policy/","dgPassFrontmatter":true,"created":"2025-04-24T09:42:25.434+05:30","updated":"2025-04-27T15:47:04.964+05:30"}
 ---
 
-[[Welcome\|Welcome]]
+
 # Monetary Policy
 
 Monetary policy refers to the actions undertaken by a central bank to manipulate the money supply and credit conditions to stimulate or restrain economic activity. Central banks use tools like interest rate adjustments, reserve requirements, and open market operations (buying or selling government bonds) to influence inflation, employment, and economic growth. Expansionary monetary policy, often implemented during recessions, aims to lower interest rates and increase the money supply, encouraging borrowing and spending. Conversely, contractionary monetary policy, used to combat inflation, raises interest rates and reduces the money supply, discouraging borrowing and spending. The goal is to maintain price stability and full employment.

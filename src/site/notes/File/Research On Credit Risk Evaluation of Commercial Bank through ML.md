@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/file/research-on-credit-risk-evaluation-of-commercial-bank-through-ml/","dgPassFrontmatter":true,"created":"2025-04-27T06:30:02.000+05:30","updated":"2025-04-27T13:39:12.272+05:30"}
+{"dg-publish":true,"permalink":"/file/research-on-credit-risk-evaluation-of-commercial-bank-through-ml/","dgPassFrontmatter":true,"created":"2025-04-27T06:30:02.000+05:30","updated":"2025-04-27T15:13:15.775+05:30"}
 ---
 
 
@@ -210,7 +210,7 @@ grid_search.fit(X_train, y_train)
 
 Finally Selected Features and Description after removing the JOINT Account types and the data having high no of Missing Values.
 
-[Untitled](Research%20On%20Credit%20Risk%20Evaluation%20of%20Commercial%20B%201a4c61da385680d5abafe34fb021d0fe/Untitled%201a9c61da385680bca74aec16ad21dab6.csv)
+[Untitled](Untitled%201a9c61da385680bca74aec16ad21dab6.csv)
 
 ### Removing the Missing Values
 
@@ -284,7 +284,7 @@ This analysis helped us determine the optimal number of features to retain for o
 
 The PCA transformation also helped address multicollinearity among our financial variables, which is common in credit datasets where factors like loan amount, interest rate, and debt-to-income ratio often exhibit high correlation. By transforming to orthogonal principal components, we improved the stability and interpretability of our subsequent machine learning models.
 
-![image.png](/img/user/File/Research On Credit Risk Evaluation of Commercial B 1a4c61da385680d5abafe34fb021d0fe/image.png)
+![image.png](/img/user/File/attachments/image.png)
 
 ## Explainable Boosting Machine
 
@@ -304,7 +304,7 @@ Where:
 - $f_i$: Functions that capture the impact of individual features
 - $f_{i,j}$: Functions that capture pairwise interactions between features
 
-![image.png](/img/user/File/Research On Credit Risk Evaluation of Commercial B 1a4c61da385680d5abafe34fb021d0fe/image 1.png)
+![image.png](/img/user/File/attachments/image 1.png)
 
 ### Key Advantages for Credit Risk Modeling
 
@@ -368,7 +368,7 @@ As shown in the table above, ensemble methods like XGBoost and Random Forest dem
 
 ## Confusion Matrix
 
-![image.png](/img/user/File/Research On Credit Risk Evaluation of Commercial B 1a4c61da385680d5abafe34fb021d0fe/image 2.png)
+![image.png](/img/user/File/attachments/image 2.png)
 
 # **Conclusion**
 
@@ -390,7 +390,7 @@ In conclusion, this study contributes to the growing body of evidence supporting
 
 ## Appendix
 
-![image.png](/img/user/File/Research On Credit Risk Evaluation of Commercial B 1a4c61da385680d5abafe34fb021d0fe/image 3.png)
+![image.png](/img/user/File/attachments/image 3.png)
 
 ## Bibliography
 
@@ -414,7 +414,7 @@ Schonbucher, P. J. (2003). Credit derivatives pricing models: Models, pricing an
 
 Thomas, L. C. (2000). A survey of credit and behavioural scoring: Forecasting financial risk of lending to consumers. International Journal of Forecasting, 16(2), 149-172.
 
-![image.png](/img/user/File/Research On Credit Risk Evaluation of Commercial B 1a4c61da385680d5abafe34fb021d0fe/image 4.png)
+![image.png](/img/user/File/attachments/image 4.png)
 
 ```cpp
 from sklearn.ensemble import GradientBoostingClassifier, RandomForestClassifier, StackingClassifier
