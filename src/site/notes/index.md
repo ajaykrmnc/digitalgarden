@@ -75,7 +75,6 @@ Here are some recent news articles I found interesting:
 
 - [[Ajay-notes-home/Index\|Index]]: Index (Updated 2025-04-28)
 - [[Ajay-notes-home/Introduction\|Introduction]]: Introduction (Updated 2025-04-28)
-- [[Ajay-notes-home/Recent Published\|Recent Published]]: Recent Published (Updated 2025-04-28)
 - [[index\|index]]: index (Updated 2025-04-28)
 - [[Topics/This week in Current@28 Apr\|This week in Current@28 Apr]]: This week in Current@28 Apr (Updated 2025-04-28)
 - [[Thesis work/Research On Credit Risk Evaluation of Commercial Bank through ML\|Research On Credit Risk Evaluation of Commercial Bank through ML]]: Research On Credit Risk Evaluation of Commercial Bank through ML (Updated 2025-04-27)

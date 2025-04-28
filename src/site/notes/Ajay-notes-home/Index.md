@@ -1,23 +1,34 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/ajay-notes-home/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-24T11:39:14.482+05:30","updated":"2025-04-28T14:01:41.276+05:30"}
+{"dg-publish":true,"dg-home":true,"permalink":"/ajay-notes-home/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-28T15:24:11.143+05:30","updated":"2025-04-28T15:53:49.431+05:30"}
 ---
 
-# 🏠 Ajay Kumar — Home
+Hi there, My name is Ajay Kumar and I am upcoming swe at AristaNetworks, previously worked as Software developer intern at Barclays In Knutsford United Kingdom. I love to code and write a me
 
-Welcome to my personal knowledge vault! Here's a snapshot of my academic journey, professional experience, and tech enthusiasm.
+## Recent Edits
 
-## Recently Updated Blog
+| File                                                                                                                                                  | Updated                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[Ajay-notes-home/Index\|Index]]                                                                                                                   | 3:53 PM - April 28, 2025  |
+| [[Ajay-notes-home/Introduction\|Introduction]]                                                                                                     | 1:50 PM - April 28, 2025  |
+| [[index\|index]]                                                                                                                                   | 1:45 PM - April 28, 2025  |
+| [[Topics/This week in Current@28 Apr\|This week in Current@28 Apr]]                                                                                | 11:13 AM - April 28, 2025 |
+| [[Thesis work/Research On Credit Risk Evaluation of Commercial Bank through ML\|Research On Credit Risk Evaluation of Commercial Bank through ML]] | 6:24 PM - April 27, 2025  |
+| [[Topics/Monetary Policy\|Monetary Policy]]                                                                                                        | 3:47 PM - April 27, 2025  |
+| [[Topics/Climate Change\|Climate Change]]                                                                                                          | 9:33 PM - April 24, 2025  |
+| [[Notion Notes/Useful Notes on Notion\|Useful Notes on Notion]]                                                                                    | 6:47 PM - April 24, 2025  |
+| [[Topics/Coal preparation\|Coal preparation]]                                                                                                      | 6:35 PM - April 21, 2025  |
 
----
-- [[Ajay-notes-home/Index\|Index]]:  (Updated 2025-04-28)
-- [[Ajay-notes-home/Introduction\|Introduction]]:  (Updated 2025-04-28)
-- [[Ajay-notes-home/Recent Published\|Recent Published]]:  (Updated 2025-04-28)
-- [[index\|index]]:  (Updated 2025-04-28)
-- [[Topics/This week in Current@28 Apr\|This week in Current@28 Apr]]:  (Updated 2025-04-28)
-- [[Thesis work/Research On Credit Risk Evaluation of Commercial Bank through ML\|Research On Credit Risk Evaluation of Commercial Bank through ML]]:  (Updated 2025-04-27)
-- [[Topics/Monetary Policy\|Monetary Policy]]:  (Updated 2025-04-27)
-- [[Topics/Climate Change\|Climate Change]]:  (Updated 2025-04-24)
-- [[Notion Notes/Useful Notes on Notion\|Useful Notes on Notion]]:  (Updated 2025-04-24)
-- [[Topics/Coal preparation\|Coal preparation]]:  (Updated 2025-04-21)
+{ .block-language-dataview}
+
+# Notes
+
+| file.folder     | Folder Name |
+| --------------- | ----------- |
+|                 | \-          |
+| Ajay-notes-home | \-          |
+| Daily-notes     | \-          |
+| Notion Notes    | \-          |
+| Thesis work     | \-          |
+| Topics          | \-          |
 
 { .block-language-dataview}
