@@ -1,11 +1,11 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/ajay-notes-home/introduction/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-24T11:39:14.482+05:30","updated":"2025-04-24T12:04:04.344+05:30"}
+{"dg-home":true,"dg-publish":true,"permalink":"/ajay-notes-home/introduction/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-24T11:39:14.482+05:30","updated":"2025-04-28T13:45:40.063+05:30"}
 ---
 
 # 🏠 Ajay Kumar — Home
 
 Welcome to my personal knowledge vault! Here's a snapshot of my academic journey, professional experience, and tech enthusiasm.
-
+<button href = "/Recent-published">Recent Published</button>
 ---
 
 ## 🧑‍💼 Experience
