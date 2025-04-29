@@ -1,19 +1,20 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/ajay-notes-home/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-28T15:24:11.143+05:30","updated":"2025-04-28T16:01:44.194+05:30"}
+{"dg-publish":true,"dg-home":true,"permalink":"/ajay-notes-home/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-28T15:24:11.143+05:30","updated":"2025-04-29T12:49:59.344+05:30"}
 ---
 
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Created with Inkscape (http://www.inkscape.org/) --><svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="100" height="512" viewBox="0 0 135.46667 135.46667" version="1.1" id="svg7452" inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)" sodipodi:docname="favicon.svg">  <sodipodi:namedview id="namedview7454" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" showgrid="false" inkscape:zoom="0.75722503" inkscape:cx="147.24817" inkscape:cy="281.29023" inkscape:window-width="1900" inkscape:window-height="1002" inkscape:window-x="10" inkscape:window-y="38" inkscape:window-maximized="0" inkscape:current-layer="layer1">    <sodipodi:guide position="0,135.46667" orientation="0,512" id="guide9025" inkscape:locked="false"/>    <sodipodi:guide position="135.46667,135.46667" orientation="512,0" id="guide9027" inkscape:locked="false"/>    <sodipodi:guide position="135.46667,0" orientation="0,-512" id="guide9029" inkscape:locked="false"/>    <sodipodi:guide position="0,0" orientation="-512,0" id="guide9031" inkscape:locked="false"/>  </sodipodi:namedview>  <defs id="defs7449">    <mask maskUnits="userSpaceOnUse" id="mask9682">      <g id="g9690">        <rect style="fill:#ffffff;stroke-width:0.917663" id="rect9684" width="135.46666" height="135.46666" x="7.1054274e-15" y="0"/>        <g aria-label="A" id="g9688" style="font-size:50.8px;line-height:79.375px;font-family:Archive;-inkscape-font-specification:Archive;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583px" transform="matrix(3.923664,0,0,3.923664,-47.518037,93.35332)">          <path d="m 45.175639,8.2116103 -11.2268,-30.4291993 c -0.4572,-1.0668 -0.9652,-1.5748 -2.0828,-1.5748 h -4.8768 c -1.1176,0 -1.6764,0.508 -2.0828,1.5748 l -11.2776,30.4291993 c -0.254,0.6096 -0.254,1.4224 0.8636,1.4224 h 5.334 c 1.1176,0 1.524,-0.3048 1.9304,-1.524 l 1.4224,-4.0131999 h 12.446 l 1.4224,4.0131999 c 0.4064,1.2192 0.8128,1.524 1.9304,1.524 h 5.334 c 1.1176,0 1.1176,-0.8128 0.8636,-1.4224 z m -19.558,-11.2267998 3.81,-11.2267995 3.81,11.2267995 z" id="path9686"/>        </g>      </g>    </mask>  </defs>  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">    <circle style="fill:#0ca678;stroke-width:0.664407" id="path9448" cx="67.73333" cy="67.73333" r="67.73333" mask="url(#mask9682)"/>  </g></svg>
+
 Hi there, My name is Ajay Kumar and I am upcoming swe at AristaNetworks, previously worked as Software developer intern at Barclays In Knutsford United Kingdom. I love to code and write a me [[Ajay-notes-home/Introduction\|About Me]]
-
+***
 ## Recent Edits
-
-- [[Ajay-notes-home/Index\|Index]]: 4:01 PM - April 28, 2025
-- [[Ajay-notes-home/Introduction\|Introduction]]: 1:50 PM - April 28, 2025
-- [[Topics/This week in Current@28 Apr\|This week in Current@28 Apr]]: 11:13 AM - April 28, 2025
-- [[Thesis work/Research On Credit Risk Evaluation of Commercial Bank through ML\|Research On Credit Risk Evaluation of Commercial Bank through ML]]: 6:24 PM - April 27, 2025
-- [[Topics/Monetary Policy\|Monetary Policy]]: 3:47 PM - April 27, 2025
-- [[Topics/Climate Change\|Climate Change]]: 9:33 PM - April 24, 2025
-- [[Notion Notes/Useful Notes on Notion\|Useful Notes on Notion]]: 6:47 PM - April 24, 2025
-- [[Topics/Coal preparation\|Coal preparation]]: 6:35 PM - April 21, 2025
+- [[Ajay-notes-home/Index\|Index]]:  (Updated 2025-04-29)
+- [[Ajay-notes-home/Introduction\|Introduction]]:  (Updated 2025-04-28)
+- [[Topics/This week in Current@28 Apr\|This week in Current@28 Apr]]:  (Updated 2025-04-28)
+- [[Thesis work/Research On Credit Risk Evaluation of Commercial Bank through ML\|Research On Credit Risk Evaluation of Commercial Bank through ML]]:  (Updated 2025-04-27)
+- [[Topics/Monetary Policy\|Monetary Policy]]:  (Updated 2025-04-27)
+- [[Topics/Climate Change\|Climate Change]]:  (Updated 2025-04-24)
+- [[Notion Notes/Useful Notes on Notion\|Useful Notes on Notion]]:  (Updated 2025-04-24)
+- [[Topics/Coal preparation\|Coal preparation]]:  (Updated 2025-04-21)
 
 { .block-language-dataview}
 
