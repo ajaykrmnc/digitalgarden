@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thesis-work/research-on-credit-risk-evaluation-of-commercial-bank-through-ml/","dgPassFrontmatter":true,"created":"2025-04-27T06:30:02.000+05:30","updated":"2025-04-27T18:24:54.216+05:30"}
+{"dg-publish":true,"permalink":"/thesis-work/research-on-credit-risk-evaluation-of-commercial-bank-through-ml/","dgPassFrontmatter":true,"created":"2025-04-27T06:30:02.000+05:30","updated":"2025-04-29T14:53:48.471+05:30"}
 ---
 
 
@@ -8,7 +8,8 @@
 
 ## Abstract
 
-This study investigates portfolio credit risk modeling within the banking industry, addressing the challenge of insufficient default data time series. We demonstrate how three widely-used portfolio credit risk models can be consistently parameterized through a likelihood framework. Using a comprehensive database of  [LendingClub.com](http://LendingClub.com) data, we estimate input parameters and analyze loss distribution forecasts under various information set restrictions. Our findings indicate that when properly parameterized with empirical estimates, the models produce remarkably similar outcomes, suggesting that model risk in credit portfolio analysis can be substantially reduced. The methodology presented offers a practical solution for financial institutions facing challenges in economic capital calculations and regulatory capital requirement determinations.
+
+This study focus on investigating portfolio credit risk modelling with commercial banking industry and peer-to-peer lending based companies, addressing the challenges in insufficient default time series data. We demonstrated how Machine learning algorithms can be utilised to make better prediction of credit defaults, with optimisation to improve accuracy in model in every possible way. Using a comprehensive database of  [LendingClub.com](http://LendingClub.com) data, we estimate input parameters and analyze loss distribution forecasts under various information set restrictions. Our finding includes the methodologies like stacked based classifier ie combining different algorithms to further improve the model accuracy, 5-fold cross validation, data imputation by IterativeImputer using MICE technique, PCA(principal Component Analysis). Our key finding highlight the use of EBM Models. The methodologies presented offer an practical solution for financial institutions facing challenges in economic capital calculation, effectively calculating the portfolio risk and improving the model for better regulatory measure.
 
 **Keywords: Credit Risk, Default, Machine Learning, SVM, Logistic
 Regression, Decision Tree , Peer to Peer lending**
@@ -373,6 +374,7 @@ As shown in the table above, ensemble methods like XGBoost and Random Forest dem
 # **Conclusion**
 
 This research has investigated the application of machine learning algorithms in commercial bank credit risk evaluation, focusing on the [LendingClub.com](http://LendingClub.com) dataset as a representative case study. Our comprehensive analysis yields several significant findings and implications for the banking industry.
+This research paper focused on application of machine learning and advanced algorithm to solve the issue of rising number of 
 
 First, our results demonstrate that machine learning models, particularly ensemble methods like Random Forest and XGBoost, substantially outperform traditional credit scoring approaches in both accuracy and discriminatory power. The superior performance of these advanced algorithms can be attributed to their ability to capture complex, non-linear relationships within financial data and to identify subtle patterns of default risk that might be missed by conventional methods.
 
