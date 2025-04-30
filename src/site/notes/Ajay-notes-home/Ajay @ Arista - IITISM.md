@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/ajay-notes-home/ajay-arista-iitism/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-28T15:24:11.143+05:30","updated":"2025-04-30T16:12:19.463+05:30"}
+{"dg-publish":true,"dg-home":true,"permalink":"/ajay-notes-home/ajay-arista-iitism/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-28T15:24:11.143+05:30","updated":"2025-04-30T16:14:00.320+05:30"}
 ---
 
 
-![Myself2.jpg|150](/img/user/Ajay-notes-home/attachments/Myself2.jpg)
+
+<img src="https://ajay-notes.vercel.app/img/optimized/iKXiJRJUam-700.webp" style="width:150px; height:150px; border-radius:50%; object-fit:cover;" />
+
 Hi there, My name is Ajay Kumar and I am from Piro located in Bihar, India. I love to code and write on various current national topics with keen interest in social science subject. I will share some of my experiences, memories and learnings here as I navigate through my life.
 [[Ajay-notes-home/Introduction\| About My Career]]
 ***
