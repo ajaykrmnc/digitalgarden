@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/ajay-notes-home/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-28T15:24:11.143+05:30","updated":"2025-04-30T16:00:21.677+05:30"}
+{"dg-publish":true,"dg-home":true,"permalink":"/ajay-notes-home/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-28T15:24:11.143+05:30","updated":"2025-04-30T16:04:17.278+05:30"}
 ---
 
 
 
-<img src="attachments/20240817_100613.jpg" style="width:150px; height:150px; border-radius:50%; object-fit:cover;" />
+<img src="Ajay-notes-home/attachments/20240817_100613.jpg" style="width:150px; height:150px; border-radius:50%; object-fit:cover;" />
 Hi there, My name is Ajay Kumar and I am from Piro located in Bihar, India. I love to code and write on various current national topics with keen interest in social science subject. I will share some of my experiences, memories and learnings here as I navigate through my life.
 [[Ajay-notes-home/Introduction\| About My Career]]
 
