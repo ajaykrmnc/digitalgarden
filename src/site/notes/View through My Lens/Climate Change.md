@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/view-through-my-lens/climate-change/","dgPassFrontmatter":true,"created":"2025-04-08T16:16:24.668+05:30","updated":"2025-04-24T21:33:45.230+05:30"}
+{"dg-publish":true,"permalink":"/view-through-my-lens/climate-change/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-08T16:16:24.668+05:30","updated":"2025-04-24T21:33:45.230+05:30"}
 ---
 
 [[View through My Lens/Monetary Policy\|Monetary Policy]]

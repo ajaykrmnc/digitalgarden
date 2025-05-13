@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ajay-notes-home/my-inspiration/","dgPassFrontmatter":true,"created":"2025-04-30T15:33:25.303+05:30","updated":"2025-05-13T18:52:37.237+05:30"}
+{"dg-publish":true,"dg-hide":true,"permalink":"/ajay-notes-home/my-inspiration/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-30T15:33:25.303+05:30","updated":"2025-05-13T20:22:14.059+05:30"}
 ---
 
 Some of my inspiration include Mohneesh Pabrai, founder of Dakshana Foundation. Dr Homi Jahangir Bhabha

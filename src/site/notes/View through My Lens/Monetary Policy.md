@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/view-through-my-lens/monetary-policy/","dgPassFrontmatter":true,"created":"2025-04-24T09:42:25.434+05:30","updated":"2025-04-27T15:47:04.964+05:30"}
+{"dg-publish":true,"permalink":"/view-through-my-lens/monetary-policy/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-24T09:42:25.434+05:30","updated":"2025-04-27T15:47:04.964+05:30"}
 ---
 
 
