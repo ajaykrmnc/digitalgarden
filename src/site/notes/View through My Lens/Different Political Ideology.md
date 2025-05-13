@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["#gov","geopolitics"],"permalink":"/view-through-my-lens/different-political-ideology/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-29T16:45:10.418+05:30","updated":"2025-04-30T23:03:55.545+05:30"}
+{"dg-publish":true,"tags":["#gov","geopolitics"],"permalink":"/view-through-my-lens/different-political-ideology/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-29T16:45:10.418+05:30","updated":"2025-05-13T20:45:11.531+05:30"}
 ---
 
 Here was a scenario, During my internship at Barclays I was sitting with the co-interns and there was a political discussion was going on. Since during those days there was a election in Great Britain also some protest among the black going. They were discussing about left and right wing of politics, and that time I felt how I am dumb that I does not read the newspaper or follow some political ideologies. Another time I felt the same way was when I was reading the book on Bose and there was a chapter named 'Irk of ism' something like that, name is not that important but the gist was whether Bose was fascist or communist or left wing politician or right wing politician.
@@ -15,7 +15,26 @@ Communism is extreme form of socialism. In socialism the government set the pric
 
 Whereas Socialism is not equivalent to communism because it does not hold for every field of our society, 
 
+<div class="content"><div id="disqus_thread"></div></div>
 
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://tpobn-hermitage.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
 
