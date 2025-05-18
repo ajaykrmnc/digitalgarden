@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/ajay-notes-home/my-inspiration/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-30T15:33:25.303+05:30","updated":"2025-05-13T20:22:14.059+05:30"}
+{"dg-publish":true,"dg-hide":true,"permalink":"/ajay-notes-home/my-inspiration/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-30T15:33:25.303+05:30","updated":"2025-05-18T20:23:55.487+05:30"}
 ---
 
 Some of my inspiration include Mohneesh Pabrai, founder of Dakshana Foundation. Dr Homi Jahangir Bhabha
@@ -11,3 +11,6 @@ My favourite politician is Nitin Gadkari
 Favourite Singer: Nusrat Fateh Ali Khan
 Favourite Song: Sanson ki Mala par by Amrita Kaur
 
+Some of Best Lines I come across
+***
+Our problem is not the circumstances but the way we think about the problem
