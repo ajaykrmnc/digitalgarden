@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-hide":true,"permalink":"/ajay-notes-home/my-inspiration/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-30T15:33:25.303+05:30","updated":"2025-05-19T12:25:36.343+05:30"}
+{"dg-publish":true,"dg-hide":true,"permalink":"/ajay-notes-home/my-inspiration/","hide":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-30T15:33:25.303+05:30","updated":"2025-05-20T18:06:30.419+05:30"}
 ---
 
 Some of my inspiration include Mohneesh Pabrai, founder of Dakshana Foundation. Dr Homi Jahangir Bhabha
@@ -20,3 +20,8 @@ Everyone should accept however he is this'll make them. so Everyone should love 
 **Some of Best Lines I come across**
 ***
 Our problem is not the circumstances but the way we think about the problem
+
+
+## Things I hate Most
+***
+5 minutes engineering youtube channal
