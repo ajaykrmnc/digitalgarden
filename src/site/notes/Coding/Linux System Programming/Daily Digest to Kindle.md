@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-11T18:00:43.052+05:30"}
+{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-12T09:35:54.017+05:30"}
 ---
 
 Hello everyone. 
@@ -30,3 +30,6 @@ Keep learning and exploring. Don't miss to solve such problems which you face da
 ## Why ??
 ***
 So I was always feel that when I woke up in the morning I wanted to something meaningful. Somewhere It was missing in my daily life and I get started with scrolling the reel or shorts or opening the social media. To avoid or cut this distraction I bought up a kindle to read something meaningful in the morning. But late I found that the there is so much friction from opening a kindle to reading a good book on Kindle. To eliminate this issue I was very compelled to solve this issue. 
+
+![Pasted image 20250612093543.png](/img/user/Coding/Linux%20System%20Programming/attachments/Pasted%20image%2020250612093543.png)
+
