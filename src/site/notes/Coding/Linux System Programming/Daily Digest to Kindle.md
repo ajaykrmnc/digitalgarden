@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-19T20:39:58.257+05:30"}
+{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-19T20:58:25.163+05:30"}
 ---
 
 *Hello everyone.* 
-*I just wanted to share something beautiful thing I've realised that feels good about learning computer and programming stuff I how fulfilling it is to apply my programming knowledge to a real problem I genuinely wanted to solve.*
+*I just wanted to share something beautiful thing I've realised that feels good about learning programming stuff I feel how fulfilling it is to apply my programming knowledge to a real problem I genuinely wanted to solve.*
 
 *The problem was really very simple: To  daily send tech/finance/national news  & some article from different sites to my e-ink device Kindle in epub format without opening my laptop or doing it manually. \[FYI] the only way to send file to Kindle Device is via kindle email.*
 
-*But it opens a complet e new whole lot of learning along the way. I am listing all the cool stuffs learnt iteratively on this way.* 
-
+*But it opens a complete new whole lot of learning along the way. I am listing all the cool stuffs learnt iteratively on this way.* 
 
 
 > [!Note]
@@ -19,34 +18,35 @@
 > **HTML-parsing** : Learnt on the way how to parse different sites using dom manipulation and querying for different element for different sites
 > **Tamper-monkey**: \[ A Chrome extension] Initially I thought tampermonkey will help in webparsing by visiting website and manipulating the dom element on the browser. It helps automatically when a sites loads it can remove all the unnecessary content on any website like ads, side menus. 
 > **Python Library like BeautifulSoup**: Then I learnt a better way by using beautifulSoup and using python library like requests
-> RSS Feeds: Intially I throught different links can be fetched by web-parsing but later I realized that the recent blogs and updated content of the website are managed through the RSS Feeds. 
+> **RSS Feeds**: Intially I throught different links can be fetched by web-parsing but later I realized that the recent blogs and updated content of the website are managed through the RSS Feeds. 
 > **Epub Formatting** : Yes a lot of learning also involved how epub file is created and how to format which suits for Kindle. Also I faced a lot of error E999 \[Internal Error] while sending to EPUB via Kindle through amazon server. Later I find epubfix.com to solve the langauge encoding error to fix the issue.
 > **Gemini AI Newsletter:** Utilised the Gemini AI to create a daily AI newsletter from the topic contained inside from different csv topics for daily micro learning like finance and other stuff and sending some motivational stuffs daily morning.
-> And finally readablity.js which is a best javascript library for json fetching for any site provided by reader mode in mozilla firefox browsers I got inspired by a paid solution for my problem push-to-kindle by fivefilters.org which is best solution for this problem but paid and works for only single blog/link. Initially I was doing for scraping different content manually by identifying different div classname and elemnt for every site but readablity.js can be very helpful by reducing unncessary works best to train RAG models too.
+> And finally **readablity.js** which is a best javascript library for json fetching for any site provided by reader mode in mozilla firefox browsers I got inspired by a paid solution for my problem push-to-kindle by fivefilters.org which is best solution for this problem but paid and works for only single blog/link. Initially I was doing for scraping different content manually by identifying different div classname and elemnt for every site but readablity.js can be very helpful by reducing unncessary works best to train RAG models too.
+> Cloudscaper: Cloudscraper is tool used to bypass cloudflare element.
 > And obviously A lot of programming challenges to implement this with python with a lots of bugs while facing significant issue with file manipulations.
 
-It was a long journey I feel very engaged and utilised my spare time. Also thanks GPT for being a great tool for exploring new ideas. I would not have gone into much depth without these tools and fixing bugs along the way. At end I realized that I'm working on a 10 years old problem 😃 but never knew about it until I find different github repo solving the problems around it. But It was fun.
+It was a long journey I feel very engaged and utilised my spare time. Also thanks GPT for being a great tool for exploring new ideas. I would not have gone into much depth without these tools and fixing bugs along the way. At end I realized that I'm working on a 10 years old problem 😃 but never knew about it until I find different github repo solving almost same problems around it. But It was fun to initiate and solve and not rely upon paid solution.
 Keep learning and exploring. Don't miss to solve such problems which you face daily life. I'm very happy that Finally I find a way and love the learning it provided me.
 
 [Visit Github Repo](github.com/ajaykrmnc/DailyNews)
-
 
 ## Why ??
 ***
 *I've always felt a deep need to start my mornings with something meaningful. There was a certain sense of fulfillment missing from my daily life, and I often found myself immediately scrolling through reels, shorts, or social media feeds upon waking. To combat this distraction, I purchased a Kindle, hoping to immerse myself in meaningful reading each morning. However, I soon discovered a significant amount of friction between the act of opening the Kindle and actually engaging with a good book. Recognizing this obstacle, I felt compelled to find a solution.*
 
-![Pasted image 20250612093543.png](/img/user/Coding/Linux%20System%20Programming/attachments/Pasted%20image%2020250612093543.png)
-
+![[Pasted image 20250612093543.png \|Pasted image 20250612093543.png ]]
+ Scrapping the Whole blog website of Devdutt Patnaik Mythology Blog Website from 2000 to 2025 and scheduling them to send it to my Kindle starting from 9 June 2025 till my lifetime 😃. 
+ 
 ---
 Things Need to be Added
 - EPUB Cover
 	- Change the Cover before converting into the EPUB
-	- Generate TOC for the EPUB Generation
+	- Generate Table of Content for the EPUB Generation with different Tag Element.
 	- AI based summary of each html file
 	- All Editorial Summaries with AI
 	- Question Answering with AI
 	- Generate a Next/Prev Article Section Tab at the end of each article
-	- Build a Database for email listing 
+	- Build a Database for email listing like User's
 	- Buid a recipe and Understanding the Calibre recipe for this article.
 
 
