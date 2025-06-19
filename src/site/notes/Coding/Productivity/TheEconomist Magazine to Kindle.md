@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/productivity/the-economist-magazine-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-28T19:25:35.338+05:30","updated":"2025-05-28T22:12:06.908+05:30"}
+{"dg-publish":true,"permalink":"/coding/productivity/the-economist-magazine-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-28T19:25:35.338+05:30","updated":"2025-06-14T20:25:31.138+05:30"}
 ---
 
 jnnjkn  
@@ -78,7 +78,7 @@ fi
 
 --username "ajaykg6917@gmail.com" \
 
---password "uhdh ijrj jweq ziqb" \
+--password "xxxx xxxx xxxx xxxx" \
 
 "$SENDER_EMAIL" "$KINDLE_EMAIL" \
 

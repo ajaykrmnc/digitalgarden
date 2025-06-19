@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-12T22:50:01.617+05:30"}
+{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-19T20:13:04.009+05:30"}
 ---
 
-Hello everyone. 
-I just wanted to share something beautiful thing I've realised that feels good about learning computer and programming stuff I how fulfilling it is to apply my programming knowledge to a real problem I genuinely wanted to solve.
+*Hello everyone.* 
+*I just wanted to share something beautiful thing I've realised that feels good about learning computer and programming stuff I how fulfilling it is to apply my programming knowledge to a real problem I genuinely wanted to solve.*
 
-The problem is really very simple: To  daily send tech/finance/national news  & some article from different sites to my e-ink device Kindle in epub format without opening my laptop or doing it manually. \[FYI] the only way to send file to Kindle Device is via kindle email.
+*The problem was really very simple: To  daily send tech/finance/national news  & some article from different sites to my e-ink device Kindle in epub format without opening my laptop or doing it manually. \[FYI] the only way to send file to Kindle Device is via kindle email.*
 
-But it opens a complet e new whole lot of learning along the way. I am listing all the cool stuffs learnt iteratively on this way. 
+*But it opens a complet e new whole lot of learning along the way. I am listing all the cool stuffs learnt iteratively on this way.* 
 
 > [!Note]
 > **Calibre** - A famous ebook software management tools and its cli tools like ebook-convert(converting html or .md to epub) and calibre-smtp(sending a mail). Also I discovered Kovid Goyal brain behind Calibre.
@@ -37,79 +37,13 @@ So I was always feel that when I woke up in the morning I wanted to something me
 Things Need to be Added
 - EPUB Cover
 	- Change the Cover before converting into the EPUB
+	- Generate TOC for the EPUB Generation
+	- AI based summary of each html file
+	- All Editorial Summaries with AI
+	- Question Answering with AI
+	- Generate a Next/Prev Article Section Tab at the end of each article
+	- Build a Database for email listing 
+	- Buid a recipe and Understanding the Calibre recipe for this article.
 
-Used 1 reference
 
-Here are some **feasible improvements** that will add value to your project and are practical to implement:
 
----
-
-### 1. **Error Handling and Logging**
-
-- Add robust error handling (try/except) around network requests, file operations, and conversions.
-- Use Python’s `logging` module instead of print statements for better traceability and debugging.
-
----
-
-### 2. **Configuration Management**
-
-- Move hardcoded paths, URLs, and constants to a config file (YAML, JSON, or [.env](vscode-file://vscode-app/Applications/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/code/electron-sandbox/workbench/workbench.html)).
-- Allow command-line arguments for flexibility (e.g., select which sources to fetch).
-
----
-
-### 3. **Content Deduplication and Filtering**
-
-- Avoid sending duplicate articles by tracking previously sent article URLs or titles (store in a simple text or JSON file).
-- Add keyword/topic filtering so users can get only the news they care about.
-
----
-
-### 4. **Scheduling and Automation**
-
-- Use `cron` (Linux/Mac) or Task Scheduler (Windows) for local automation.
-- For GitHub Actions, add notifications (email, Slack, etc.) on failure/success.
-
----
-
-### 5. **User-Friendly Output**
-
-- Add a summary page at the top of each EPUB with a table of contents and highlights.
-- Improve HTML formatting for readability on Kindle (e.g., larger headings, spacing, images centered).
-
----
-
-### 6. **Testing**
-
-- Add unit tests for your parsing and conversion functions.
-- Use GitHub Actions to run tests on every push.
-
----
-
-### 7. **Documentation**
-
-- Expand your README with usage examples, troubleshooting, and contribution guidelines.
-- Add docstrings to all functions.
-
----
-
-### 8. **Extensibility**
-
-- Make it easy to add new news sources by defining a standard interface or class for each source.
-- Allow users to specify sources via config.
-
----
-
-### 9. **Notifications**
-
-- Send a confirmation email (or Telegram/Slack message) when the Kindle delivery is successful.
-
----
-
-### 10. **Performance**
-
-- Use concurrent requests (with `concurrent.futures` or `asyncio`) to fetch articles faster.
-
----
-
-**Implementing even a few of these will make your project more robust, user-friendly, and maintainable!**
