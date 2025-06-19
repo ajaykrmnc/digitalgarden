@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-19T20:58:25.163+05:30"}
+{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-19T21:12:43.340+05:30"}
 ---
 
 *Hello everyone.* 
@@ -8,6 +8,8 @@
 *The problem was really very simple: To  daily send tech/finance/national news  & some article from different sites to my e-ink device Kindle in epub format without opening my laptop or doing it manually. \[FYI] the only way to send file to Kindle Device is via kindle email.*
 
 *But it opens a complete new whole lot of learning along the way. I am listing all the cool stuffs learnt iteratively on this way.* 
+
+*I started with solving a very simple problem of sending this theEconomist Magazine \[Weekly Magazine] to my kindle  [[Coding/Productivity/TheEconomist Magazine to Kindle\|TheEconomist Magazine to Kindle]] with the help of GPT I got curious and then I was determined a way to solve all the problem I face along the way.
 
 
 > [!Note]
@@ -34,20 +36,26 @@ Keep learning and exploring. Don't miss to solve such problems which you face da
 ***
 *I've always felt a deep need to start my mornings with something meaningful. There was a certain sense of fulfillment missing from my daily life, and I often found myself immediately scrolling through reels, shorts, or social media feeds upon waking. To combat this distraction, I purchased a Kindle, hoping to immerse myself in meaningful reading each morning. However, I soon discovered a significant amount of friction between the act of opening the Kindle and actually engaging with a good book. Recognizing this obstacle, I felt compelled to find a solution.*
 
-![[Pasted image 20250612093543.png \|Pasted image 20250612093543.png ]]
- Scrapping the Whole blog website of Devdutt Patnaik Mythology Blog Website from 2000 to 2025 and scheduling them to send it to my Kindle starting from 9 June 2025 till my lifetime 😃. 
+## What I've Achieved.
+
+ - Parsing the TechCrunch, YourStory, DristiIAS Current Affair website.
+ - Sending Daily one Gita Verse using GeminiAI
+ - All the The Hindu Editorial through fetching rss feeds and since It requires paid subscription I think that was awesome to find away for free 😃.
+ - Scrapping the Whole blog website of Devdutt Patnaik Mythology Blog Website from 2000 to 2025 and scheduling them to send it to my Kindle starting from 9 June 2025 till my lifetime 😃. 
+
+- ![Pasted image 20250612093543.png](/img/user/Coding/Linux%20System%20Programming/attachments/Pasted%20image%2020250612093543.png)
+	
  
 ---
 Things Need to be Added
 - EPUB Cover
-	- Change the Cover before converting into the EPUB
-	- Generate Table of Content for the EPUB Generation with different Tag Element.
-	- AI based summary of each html file
-	- All Editorial Summaries with AI
-	- Question Answering with AI
-	- Generate a Next/Prev Article Section Tab at the end of each article
-	- Build a Database for email listing like User's
-	- Buid a recipe and Understanding the Calibre recipe for this article.
-
+	- [x] Change the Cover before converting into the EPUB
+	- [ ] Generate Table of Content for the EPUB Generation with different Tag Element.
+	- [ ] AI based summary of each html file
+	- [ ] All Editorial Summaries with AI
+	- [ ] Question Answering with AI
+	- [ ] Generate a Next/Prev Article Section Tab at the end of each articl
+	- [ ] Build a Database for email listing like User's
+	- [x] Buid a Calibre recipe and Understanding the Calibre recipe for this article for the website which uses Authentication and browser support.
 
 
