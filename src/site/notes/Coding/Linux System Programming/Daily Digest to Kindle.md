@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-19T21:12:43.340+05:30"}
+{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-19T21:19:47.829+05:30"}
 ---
 
 *Hello everyone.* 
@@ -9,7 +9,7 @@
 
 *But it opens a complete new whole lot of learning along the way. I am listing all the cool stuffs learnt iteratively on this way.* 
 
-*I started with solving a very simple problem of sending this theEconomist Magazine \[Weekly Magazine] to my kindle  [[Coding/Productivity/TheEconomist Magazine to Kindle\|TheEconomist Magazine to Kindle]] with the help of GPT I got curious and then I was determined a way to solve all the problem I face along the way.
+*I started with solving a very simple problem of sending this theEconomist Magazine \[Weekly Magazine] to my kindle  [[Coding/Productivity/TheEconomist Magazine to Kindle\|TheEconomist Magazine to Kindle]] 
 
 
 > [!Note]
