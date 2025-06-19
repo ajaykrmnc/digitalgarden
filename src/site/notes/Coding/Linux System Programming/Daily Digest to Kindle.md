@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-19T20:13:04.009+05:30"}
+{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-19T20:39:58.257+05:30"}
 ---
 
 *Hello everyone.* 
@@ -8,6 +8,8 @@
 *The problem was really very simple: To  daily send tech/finance/national news  & some article from different sites to my e-ink device Kindle in epub format without opening my laptop or doing it manually. \[FYI] the only way to send file to Kindle Device is via kindle email.*
 
 *But it opens a complet e new whole lot of learning along the way. I am listing all the cool stuffs learnt iteratively on this way.* 
+
+
 
 > [!Note]
 > **Calibre** - A famous ebook software management tools and its cli tools like ebook-convert(converting html or .md to epub) and calibre-smtp(sending a mail). Also I discovered Kovid Goyal brain behind Calibre.
@@ -26,10 +28,12 @@
 It was a long journey I feel very engaged and utilised my spare time. Also thanks GPT for being a great tool for exploring new ideas. I would not have gone into much depth without these tools and fixing bugs along the way. At end I realized that I'm working on a 10 years old problem 😃 but never knew about it until I find different github repo solving the problems around it. But It was fun.
 Keep learning and exploring. Don't miss to solve such problems which you face daily life. I'm very happy that Finally I find a way and love the learning it provided me.
 
+[Visit Github Repo](github.com/ajaykrmnc/DailyNews)
+
 
 ## Why ??
 ***
-So I was always feel that when I woke up in the morning I wanted to something meaningful. Somewhere It was missing in my daily life and I get started with scrolling the reel or shorts or opening the social media. To avoid or cut this distraction I bought up a kindle to read something meaningful in the morning. But late I found that the there is so much friction from opening a kindle to reading a good book on Kindle. To eliminate this issue I was very compelled to solve this issue. 
+*I've always felt a deep need to start my mornings with something meaningful. There was a certain sense of fulfillment missing from my daily life, and I often found myself immediately scrolling through reels, shorts, or social media feeds upon waking. To combat this distraction, I purchased a Kindle, hoping to immerse myself in meaningful reading each morning. However, I soon discovered a significant amount of friction between the act of opening the Kindle and actually engaging with a good book. Recognizing this obstacle, I felt compelled to find a solution.*
 
 ![Pasted image 20250612093543.png](/img/user/Coding/Linux%20System%20Programming/attachments/Pasted%20image%2020250612093543.png)
 
