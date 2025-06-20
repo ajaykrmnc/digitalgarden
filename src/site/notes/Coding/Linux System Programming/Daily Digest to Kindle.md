@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-19T21:19:47.829+05:30"}
+{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-20T12:01:58.059+05:30"}
 ---
 
 *Hello everyone.* 
@@ -30,7 +30,7 @@
 It was a long journey I feel very engaged and utilised my spare time. Also thanks GPT for being a great tool for exploring new ideas. I would not have gone into much depth without these tools and fixing bugs along the way. At end I realized that I'm working on a 10 years old problem 😃 but never knew about it until I find different github repo solving almost same problems around it. But It was fun to initiate and solve and not rely upon paid solution.
 Keep learning and exploring. Don't miss to solve such problems which you face daily life. I'm very happy that Finally I find a way and love the learning it provided me.
 
-[Visit Github Repo](github.com/ajaykrmnc/DailyNews)
+[Visit Github Repo](https://github.com/ajaykrmnc/DailyNews)
 
 ## Why ??
 ***
@@ -43,9 +43,12 @@ Keep learning and exploring. Don't miss to solve such problems which you face da
  - All the The Hindu Editorial through fetching rss feeds and since It requires paid subscription I think that was awesome to find away for free 😃.
  - Scrapping the Whole blog website of Devdutt Patnaik Mythology Blog Website from 2000 to 2025 and scheduling them to send it to my Kindle starting from 9 June 2025 till my lifetime 😃. 
 
-- ![Pasted image 20250612093543.png](/img/user/Coding/Linux%20System%20Programming/attachments/Pasted%20image%2020250612093543.png)
-	
- 
+
+ <div style="display: flex; flex-direction: row; justify-content: space-between;">
+        <img src="Pasted image 20250612093543.png" style="width: 40%;">
+        <img src="WhatsApp Image 2025-06-19 at 10.05.19 PM.jpeg" style="width: 40%;">
+</div>
+
 ---
 Things Need to be Added
 - EPUB Cover
