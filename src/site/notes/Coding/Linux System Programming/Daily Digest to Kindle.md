@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-20T12:01:58.059+05:30"}
+{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-20T12:05:03.970+05:30"}
 ---
 
 *Hello everyone.* 
@@ -45,8 +45,8 @@ Keep learning and exploring. Don't miss to solve such problems which you face da
 
 
  <div style="display: flex; flex-direction: row; justify-content: space-between;">
-        <img src="Pasted image 20250612093543.png" style="width: 40%;">
-        <img src="WhatsApp Image 2025-06-19 at 10.05.19 PM.jpeg" style="width: 40%;">
+        <img src="attachments/Pasted image 20250612093543.png" style="width: 40%;">
+        <img src="attachments/WhatsApp Image 2025-06-19 at 10.05.19 PM.jpeg" style="width: 40%;">
 </div>
 
 ---
