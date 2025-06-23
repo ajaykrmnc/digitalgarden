@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["weekly-news"],"permalink":"/this-week-in-current/this-week-in-current-23-june/","dgPassFrontmatter":true,"created":"2025-06-23T12:01:19.762+05:30","updated":"2025-06-23T12:59:36.460+05:30"}
+{"dg-publish":true,"tags":["weekly-news"],"permalink":"/this-week-in-current/this-week-in-current-23-june/","dgPassFrontmatter":true,"created":"2025-06-23T12:01:19.762+05:30","updated":"2025-06-23T20:40:13.340+05:30"}
 ---
 
 
@@ -11,5 +11,4 @@
 - PM Modi announce Rupee 9000 Crore to fund Bihar. Key development include introduction of Makhana Board in Bihar and focus on expansion of Railway system.
 - In the G7 Meeting, Modi met to Emmanuel Macron with a viral video being shared on Internet about his "fighting on Tweeter" by Brut. Also Modi has been invited by Canada very before the Meeting amid rising tension between Mark Carney Canadian Prime Minister.
 - Indian American Scientist Win the Godel Prize for 2025 goes to Eshan Chattopadhyay and David Zukermann
-- 
 
