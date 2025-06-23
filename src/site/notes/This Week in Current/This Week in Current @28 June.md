@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"tags":["weekly-news"],"permalink":"/this-week-in-current/this-week-in-current-28-june/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-23T12:01:19.762+05:30","updated":"2025-06-23T12:56:04.367+05:30"}
+{"dg-publish":true,"tags":["weekly-news"],"permalink":"/this-week-in-current/this-week-in-current-28-june/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-23T12:01:19.762+05:30","updated":"2025-06-23T12:59:36.460+05:30"}
 ---
 
 
-##  Top Headline This Week.
 - In the recent development around Iran Israel War. American president Trump attack the 3 Major site of Iran nuclear hub or spot. This escalation is all about stopping nuclear program in Iran.
 - Meta acquired 49% stake in SCALE AI( A data labelling company with CEO Mr Wang) for $14 Billion USD. Also Meta launches Spectacles which can record 3D video. Meta also trying to pull different Major AI engineer to include in his team probably around $ 100Mn invest to lure top talents of AI industry.
 - For India tech development include 
