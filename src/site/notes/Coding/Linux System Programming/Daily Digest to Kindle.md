@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-20T12:05:03.970+05:30"}
+{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-20T12:05:03.970+05:30"}
 ---
 
 *Hello everyone.* 

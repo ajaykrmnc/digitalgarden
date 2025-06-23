@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["currentAffairs","India"],"permalink":"/view-through-my-lens/this-week-in-current-28-apr/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-27T17:55:08.605+05:30","updated":"2025-04-30T09:49:45.833+05:30"}
+{"dg-publish":true,"tags":["currentAffairs","India"],"permalink":"/view-through-my-lens/this-week-in-current-28-apr/","dgPassFrontmatter":true,"created":"2025-04-27T17:55:08.605+05:30","updated":"2025-04-30T09:49:45.833+05:30"}
 ---
 
 

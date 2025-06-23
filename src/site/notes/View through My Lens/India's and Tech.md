@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/view-through-my-lens/india-s-and-tech/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-30T22:38:15.542+05:30","updated":"2025-05-04T14:10:23.664+05:30"}
+{"dg-publish":true,"permalink":"/view-through-my-lens/india-s-and-tech/","dgPassFrontmatter":true,"created":"2025-04-30T22:38:15.542+05:30","updated":"2025-05-04T14:10:23.664+05:30"}
 ---
 
 ***

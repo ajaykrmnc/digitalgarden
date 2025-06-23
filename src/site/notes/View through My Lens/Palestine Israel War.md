@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/view-through-my-lens/palestine-israel-war/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-18T18:20:49.357+05:30","updated":"2025-05-18T22:21:58.822+05:30"}
+{"dg-publish":true,"permalink":"/view-through-my-lens/palestine-israel-war/","dgPassFrontmatter":true,"created":"2025-05-18T18:20:49.357+05:30","updated":"2025-05-18T22:21:58.822+05:30"}
 ---
 
 

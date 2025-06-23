@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/coding/productivity/the-economist-magazine-to-kindle/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-28T19:25:35.338+05:30","updated":"2025-06-19T21:06:03.614+05:30"}
+{"dg-publish":true,"permalink":"/coding/productivity/the-economist-magazine-to-kindle/","dgPassFrontmatter":true,"created":"2025-05-28T19:25:35.338+05:30","updated":"2025-06-19T21:06:03.614+05:30"}
 ---
 
 Daily Automation of TheEconomist Magazine to my Using Monkfishare the Economist github repo. Since I can't afford to pay around 10$ per magazine I find a way with the open source github repo. Thanks GPT for a being a great tool.
