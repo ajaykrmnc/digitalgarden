@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/ajay-notes-home/latest-post/","dgPassFrontmatter":true,"created":"2025-06-23T23:06:52.503+05:30","updated":"2025-06-24T14:24:42.992+05:30"}
+{"dg-publish":true,"permalink":"/ajay-notes-home/latest-post/"}
 ---
+
 
 
 ```
