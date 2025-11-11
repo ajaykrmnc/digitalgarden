@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/ajay-notes-home/ajay-arista-iitism/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2025-04-28T15:24:11.143+05:30","updated":"2025-06-23T22:56:26.205+05:30"}
+{"dg-publish":true,"permalink":"/ajay-notes-home/ajay-arista-iitism/","tags":["gardenEntry"]}
 ---
+
 
 
 

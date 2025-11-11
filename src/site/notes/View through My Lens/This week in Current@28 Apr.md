@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["currentAffairs","India"],"permalink":"/view-through-my-lens/this-week-in-current-28-apr/","dgPassFrontmatter":true,"created":"2025-04-27T17:55:08.605+05:30","updated":"2025-04-30T09:49:45.833+05:30"}
+{"dg-publish":true,"permalink":"/view-through-my-lens/this-week-in-current-28-apr/","tags":["currentAffairs","India"]}
 ---
+
 
 
 So in this notebook I will write my view's on India's current situation wrt governancy,  Decision of our Prime minister. I will describe different policies of government in term of different affairs political landscape, geopolitical scenario, and different economic policies, internal affairs and link with the other. One thing's is that India's economic conditions is not very good but we can see the there is a steady growth. Economic policy are kept in the top of the priority list, repo rate has make a cut to by 50 basis point and it is now at 6%. Major focus of RBI is to increase in the purchasing power of the local people so that they can purchase local goods more, earlier this year the reduction in the tax regime indicated that the early retaliation of Trump trade war and imposition of heavy tariff on the our country. So this makes us to ready enough and increase the purchase of goods in the country only. Where we're lacking is the projected growth in the per-capita over several year is still very low lesser than some of south east countries like Indonesia and Vietnam. Country growth is self sustaining and self reliant in nature but as long as countries across the globe is far away from recession. 

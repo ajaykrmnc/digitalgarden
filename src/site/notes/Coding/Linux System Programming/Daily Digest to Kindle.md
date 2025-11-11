@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/","dgPassFrontmatter":true,"created":"2025-06-09T12:53:56.738+05:30","updated":"2025-06-20T12:05:03.970+05:30"}
+{"dg-publish":true,"permalink":"/coding/linux-system-programming/daily-digest-to-kindle/"}
 ---
+
 
 *Hello everyone.* 
 *I just wanted to share something beautiful thing I've realised that feels good about learning programming stuff I feel how fulfilling it is to apply my programming knowledge to a real problem I genuinely wanted to solve.*

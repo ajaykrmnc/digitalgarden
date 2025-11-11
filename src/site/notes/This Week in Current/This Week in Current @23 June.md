@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["weekly-news"],"permalink":"/this-week-in-current/this-week-in-current-23-june/","dgPassFrontmatter":true,"created":"2025-06-23T12:01:19.762+05:30","updated":"2025-06-23T20:40:13.340+05:30"}
+{"dg-publish":true,"permalink":"/this-week-in-current/this-week-in-current-23-june/","tags":["weekly-news"]}
 ---
+
 
 
 - In the recent development around Iran Israel War. American president Trump attack the 3 Major site of Iran nuclear hub or spot. This escalation is all about stopping nuclear program in Iran.

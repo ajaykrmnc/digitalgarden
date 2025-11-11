@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"tags":["obsidian","productivity","notion"],"permalink":"/coding/productivity/why-i-love-obsidian/","dgPassFrontmatter":true,"created":"2025-04-29T18:24:29.988+05:30","updated":"2025-04-30T09:51:10.753+05:30"}
+{"dg-publish":true,"permalink":"/coding/productivity/why-i-love-obsidian/","tags":["obsidian","productivity","notion"]}
 ---
+
 
 Yesterday I was talking to my one of friend for so much time and she noticed that I used the sentence "I love obsidian so much" n number of times. So today I am going to write about obsidian why I loved it so much, and how a piece of software is so good in term of creativity and knowledge management system
 

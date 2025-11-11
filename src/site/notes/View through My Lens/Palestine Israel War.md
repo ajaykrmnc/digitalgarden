@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/view-through-my-lens/palestine-israel-war/","dgPassFrontmatter":true,"created":"2025-05-18T18:20:49.357+05:30","updated":"2025-05-18T22:21:58.822+05:30"}
+{"dg-publish":true,"permalink":"/view-through-my-lens/palestine-israel-war/"}
 ---
+
 
 
 It's been a whole year since I'm following the Israel Palestine War news. and I'm totally sure this war will be recorded in the history of 21st century. The whole Gaza been destroyed and converted it into debris and shells and most of people have been fled away from country and become a refugee in countries like Iran and Turkey. The war has led to ten of thousand of casualties,  widespread destruction and humanitarian crisis.  I always wanted to write about it but never felt so confident about it. While roaming around the city of  Liverpool I witnessed a huge crowd  is support and asking justice for Palestinians with huge banners and spreading the cards which mentioned which organisation are funding the Israel Palestine war to stop supporting like Barclays McDonald and I was unknowingly eating burger at the McDonald while carrying the badge of Barclays and it really scared me 🥶😃. In this article I will try my best to put my viewpoint on it. 
