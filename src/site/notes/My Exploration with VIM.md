@@ -59,19 +59,22 @@ like this
 [![| 300](https://i.imgflip.com/abt3jx.jpg "made at imgflip.com")](https://imgflip.com/i/abt3jx)
 
 ### LSP's, TreeSitter
+
+[![ | 250](https://i.imgflip.com/abtaso.jpg "made at imgflip.com")](https://imgflip.com/i/abtaso)
 After you try and feel vim, you find something is missing in the workflow,
 actually you've experience the autocompletion, going to variable definition,
 folding the code, but there's a plugin's for everything here. Now LSP's for
-particular language which are responsible for code auto completion is platform
-independent, Previously the editor have the proprietry inhouse LSP's now they
-are independent, you can build your own language and your own LSP's So I come
-across a whole open source community spent a lot of time finding the suitable
-plugin for everything, I don't to worry about what you need about since you've
-experienced different editor like JET Brains IDE then you know how we can find
-the 'go to definition' feature in IDE and you end up hunting for that nvim
-plugin which satisfy your requirement so this things come naturally to you. But
-after configuring everything I got to know many things under the hood. If you've
-ever overwhelmed with the option's and keyboard shortcut provided by the vs code
+particular language which are responsible for code auto completion it's is
+platform independent, Previously the editor have the proprietry inhouse LSP's
+now they are independent, you can build your own language and your own LSP's
+which is rpc json protocol So I come across a whole open source community spent
+a lot of time finding the suitable plugin for everything, I don't to worry about
+what you need about since you've experienced different editor like JET Brains
+IDE then you know how we can find the 'go to definition' feature in IDE and you
+end up hunting for that nvim plugin which satisfy your requirement so this
+things come naturally to you. But after configuring everything I got to know
+many things under the hood. If you've ever overwhelmed with the option's and
+keyboard shortcut provided by the vs code
 or maybe you want some ide which give you the recent opened or edited file with
 some easy keyboard shortcut. Believe me the keyboard shortcut I used in vim is
 completely different from what we've experience it comes very naturally to use,
@@ -118,5 +121,7 @@ file how much you want to scroll at a time.
 If  you every have tried and felt not been
 comfortable with it you should remap the escape key with caps-lock and escape
 key. and feel the pwer of VIM 
+
+[![|250](https://i.imgflip.com/abtbgh.jpg "made at imgflip.com")](https://imgflip.com/i/abtbgh)
 
 Thanks !!!
