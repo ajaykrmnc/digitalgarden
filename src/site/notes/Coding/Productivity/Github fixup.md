@@ -6,7 +6,7 @@
 
 So for this week for my learning experience are that I've learnt github fixup, .
 It's a cool command useful when we want to amend the commit
-in a chain. The usual way is to do the interactive rebase first then commit amend the original commit. which is good
+in a chain. The usual way is to do the interactive rebase first then commit amend the original commit. which is good:
 but create a multi step process to amend the commit. To fasten the process we need a better way to change it.
 
 - Using the github fixup we can amend any commit during the interactive rebase and change it's commit using a single command.
