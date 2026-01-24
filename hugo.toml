@@ -49,9 +49,9 @@ enableRobotsTXT = true
 I'm Ajay Kumar, a Software Engineer at Arista Networks. This is my digital garden where I share my notes,
 thoughts on technology, coding adventures, and views on various topics. Feel free to explore!
 
-- 🧑‍💻 [About Me](/posts/introduction/)
-- 📝 [My VIM Journey](/posts/my-exploration-with-vim/)
-- 💼 [Professional Background](/posts/ajay-at-arista-iitism/)
+- 🧑‍💻 [About Me](posts/introduction/)
+- 📝 [My VIM Journey](posts/my-exploration-with-vim/)
+- 💼 [Professional Background](posts/ajay-at-arista-iitism/)
 """
 
   [[params.socialIcons]]
